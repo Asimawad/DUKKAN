@@ -1,0 +1,1 @@
+This is a Java Application of a supermarket, developed as part of our assignment in the Java programming and Applications module course inn the third year of my Bsc degree at the University of Khartoum.
